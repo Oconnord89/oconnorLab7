@@ -1,0 +1,19 @@
+The bulk of our day was spent learning Methods, Arrays and Objects in Javascript. I found today to be
+very interesting, because the various types of Methods in Javascript have intrigued me since I had been
+initially exposed to them while exploring Javascript. Methods are actions that can be performed on 
+objects, but they are essentially just functions with more specific purposes... And there are tons of 
+them, and more to be discovered. Some of the ones that we discussed were .toString which will turn your
+data into a string, .concat which will combine multiple arrays or objects into one string or one 
+array, and .splice, which was very helpful while I was working on my Lab 7 project today. Splice
+allows you to add or remove any element of your array. As I said, there are a whole lot of Methods 
+and these ones are barely the tip of the iceberg.
+	We also went over Arrays and Objects today, which I really enjoyed learning about as well. 
+Objects are structures that allow us to store collections of data, and they are everywhere in Javascript.
+Though we were just learning the basics of them, Objects are excellent when used to bundle data together
+for very complex programs, and Objects use curly brackets, which you add your values or properties to,
+they are also seperated by commas. 
+	Arrays are basically just Objects with different types of attributes. They are data structures
+with a collection elements, or to explain more simply, they are like a list with a bunch of items on
+it. When you create an array, you do so by adding square brackets. Arrays are identified by a 
+Numerical Index, so when creating Arrays, it is important to remember that computers start counting at 
+0 instead of 1, so the first number that you count will be 0. 
